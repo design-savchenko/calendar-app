@@ -1,6 +1,6 @@
-import { TabSwitcher } from "/js/tabSwitcher.js";
-import { DateCalculator } from "/js/dateCalculator.js";
-import { HolidaysFetcher } from "/js/holidaysFetcher.js";
+import { TabSwitcher } from "https://design-savchenko.github.io/calendar-app/js/tabSwitcher.js";
+import { DateCalculator } from "https://design-savchenko.github.io/calendar-app/js/dateCalculator.js";
+import { HolidaysFetcher } from "https://design-savchenko.github.io/calendar-app/js/holidaysFetcher.js";
 
 (function () {
   const tabButtons = [

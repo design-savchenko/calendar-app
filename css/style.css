@@ -210,7 +210,8 @@ select {
   -webkit-appearance: none;
   -moz-appearance: none;
   padding-right: 30px;
-  background: url("/assets/img/arr-down.svg") no-repeat right 10px center;
+  background: url("https://design-savchenko.github.io/calendar-app/assets/img/arr-down.svg")
+    no-repeat right 10px center;
   background-size: 12px 12px;
 }
 
